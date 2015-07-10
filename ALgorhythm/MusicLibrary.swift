@@ -25,7 +25,7 @@ struct MusicLibrary {
             "icon": "running.pdf",
             "largeIcon": "running_large.pdf",
             "backgroundColor": ["red": 255, "green": 102, "blue": 51, "alpha": 1.0],
-            "artists": ["Avicii", "Calvin Harris", "Pitbull", "Poop", "Rita Ora", "Drake", "Lil Wayne"]
+            "artists": ["Ghost", "Wallpaper", "Misfits", "Poop", "Rita Ora", "Drake", "Lil Wayne"]
         ],
         [
             "title": "Joy Ride",
@@ -41,7 +41,7 @@ struct MusicLibrary {
             "icon": "laptop.pdf",
             "largeIcon": "laptop_large.pdf",
             "backgroundColor": ["red": 51, "green": 153, "blue": 204, "alpha": 1.0],
-            "artists": ["Grimes", "Chvrches", "Purity Ring", "D12", "Flying Lotus", "Kanye West", "Rundfunk"]
+            "artists": ["Grimes", "Chvrches", "Purity Ring", "D12", "Flying Lotus", "Nick Cave", "Rundfunk"]
         ],
         [
             "title": "Button Masher",
@@ -49,7 +49,7 @@ struct MusicLibrary {
             "icon": "joystick.pdf",
             "largeIcon": "joystick_large.pdf",
             "backgroundColor": ["red": 51, "green": 204, "blue": 102, "alpha": 1.0],
-            "artists": ["Skrillex", "The Game", "2 Chainz", "Jay Z", "T.I.", "Rihanna", "Eminem"]
+            "artists": ["Skrillex", "Ramones", "2 Chainz", "Jay Z", "T.I.", "Rihanna", "Eminem"]
         ],
         [
             "title": "Futbal Remix",
@@ -57,7 +57,7 @@ struct MusicLibrary {
             "icon": "ball.pdf",
             "largeIcon": "ball_large.pdf",
             "backgroundColor": ["red": 255, "green": 102, "blue": 153, "alpha": 1.0],
-            "artists": ["Shakira", "Santana", "Wyclef Jean", "Aloe Blacc", "Pitbull", "Enrique Iglesias", "Ricky Martin"]
+            "artists": ["Acid Witch", "Morbid Angel", " Dickies", "Aloe Blacc", "Dokken", "Enrique Iglesias", "Ricky Martin"]
         ]
     ]
 }
