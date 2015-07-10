@@ -17,7 +17,7 @@ struct MusicLibrary {
             "icon": "coffee.pdf",
             "largeIcon": "coffee_large.pdf",
             "backgroundColor": ["red": 255, "green": 204, "blue": 51, "alpha": 1.0],
-            "artists": ["American Authors", "Vacationer", "Matt and Kim", "MGMT", "Echosmith", "Tokyo Police Club", "La Femme"]
+            "artists": [" Terror", "Slayer", "Thrice", "MGMT", "Echosmith", "Tokyo Police Club", "La Femme"]
         ],
         [
             "title": "Runner's Rampage",
@@ -33,7 +33,7 @@ struct MusicLibrary {
             "icon": "helmet.pdf",
             "largeIcon": "helmet_large.pdf",
             "backgroundColor": ["red": 153, "green": 102, "blue": 204, "alpha": 1.0],
-            "artists": ["Afrojack", "Kid Cudi", "Daft Punk", "Icona Pop", "Gesaffelstien", "Roksnoix", "deadmau5"]
+            "artists": ["Grimes", "At The Drive In", "Daft Punk", "Icona Pop", "Gesaffelstien", "Roksnoix", "deadmau5"]
         ],
         [
             "title": "In The Zone",
@@ -41,7 +41,7 @@ struct MusicLibrary {
             "icon": "laptop.pdf",
             "largeIcon": "laptop_large.pdf",
             "backgroundColor": ["red": 51, "green": 153, "blue": 204, "alpha": 1.0],
-            "artists": ["Dr. Dre", "Snoop Dogg", "Com Truise", "D12", "Flying Lotus", "Kanye West", "Rundfunk"]
+            "artists": ["Grimes", "Chvrches", "Purity Ring", "D12", "Flying Lotus", "Kanye West", "Rundfunk"]
         ],
         [
             "title": "Button Masher",
