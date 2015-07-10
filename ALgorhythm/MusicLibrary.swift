@@ -25,7 +25,7 @@ struct MusicLibrary {
             "icon": "running.pdf",
             "largeIcon": "running_large.pdf",
             "backgroundColor": ["red": 255, "green": 102, "blue": 51, "alpha": 1.0],
-            "artists": ["Avicii", "Calvin Harris", "Pitbull", "Iggy Azalea", "Rita Ora", "Drake", "Lil Wayne"]
+            "artists": ["Avicii", "Calvin Harris", "Pitbull", "Poop", "Rita Ora", "Drake", "Lil Wayne"]
         ],
         [
             "title": "Joy Ride",
